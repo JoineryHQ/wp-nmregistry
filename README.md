@@ -1,4 +1,4 @@
 # NM registry
 ## Custom WordPress plugin for NMDCC provider registry
 
-TODO
+Provides specific tweaks and functionality for the New Mexico Respite Providers registry.

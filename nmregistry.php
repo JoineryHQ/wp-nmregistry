@@ -10,9 +10,9 @@ Text Domain:  nmregistry
 One User Avatar
 Copyright (c) 2023 Joinery https://joineryhq.com/
 License: GPLv3
-Source: https://joineryhq.com/
+Source:  https://github.com:JoineryHQ/wp-nmregistry
 
-One User Avatar is distributed under the terms of the GNU GPL v3.
+This plugin is distributed under the terms of the GNU GPL v3.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
